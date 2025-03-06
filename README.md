@@ -42,7 +42,7 @@ For comparison with existing methods, we also evaluate our model on the related 
 The high-level architecture of our proposed model is presented in the following figure.<br/>
 ....
 <p align="center">
-  <img src="doc/Figures/model_overview.png" hight="10%" alt="Model Architecture - High Level">
+  <img src="doc/Figures/model_overview.png" width="50" hight="100" alt="Model Architecture - High Level">
 </p>
 
 
