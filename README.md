@@ -6,17 +6,19 @@ This repository contains the code for the **audio-visual model** presented in th
 🔗 [Link to Paper](https://arxiv.org/abs/2407.01774)  
 
 ## 📂 Repository Structure
-
 ```bash
 CSD-Audio-Visual/
+├── doc/
+│   └── Figures/
 ├── src/
 │   ├── XXX.py
 │   └── Inference.py
 ├── README.md
 └── ...
 ```
-**XXX.py**: PyTorch implementation of our proposed model.<br/>
-**Inference.py**: This file provides a demonstration of how to use the CSD model for inference. <br/>
+* **`doc/Figures/`**: Contains the figures used in this repository
+* **`CSD_model.py`**: PyTorch implementation of our proposed CSD model.<br/>
+* **`Inference.py`**: This file provides a demonstration of how to use the CSD model for inference. <br/>
 It includes code for generating a random input of the same shape as the model's expected input and then using the model to generate predictions.
 Additionally, it prints the model's summary.
 
