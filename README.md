@@ -1,5 +1,5 @@
 # CSD-Audio-Visual
-### Concurrent Speaker Detection: A Multi-Microphone Transformer-Based Approach
+### Audio-Visual Approach For Multimodal Concurrent Speaker Detection
 
 This repository contains the code for the **audio-visual model** presented in the paper:  
 📄 **"Audio-Visual Approach For Multimodal Concurrent Speaker Detection"**  
