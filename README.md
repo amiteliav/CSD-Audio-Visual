@@ -3,7 +3,7 @@
 
 This repository contains the code for the **audio-visual model** presented in the paper:  
 📄 **"Audio-Visual Approach For Multimodal Concurrent Speaker Detection"**  
-🔗 [Link to Paper]([https://ieeexplore.ieee.org/document/10715386](https://arxiv.org/abs/2407.01774))  
+🔗 [Link to Paper]([https://ieeexplore.ieee.org/document/10715386](https://arxiv.org/abs/2407.01774)])  
 
 ## 📂 Repository Structure
 
