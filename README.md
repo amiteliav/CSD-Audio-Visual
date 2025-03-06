@@ -24,13 +24,13 @@ Additionally, it prints the model's summary.
 
 
 ## 📌 Overview
-This model classifies audio-visaul segments into three categories:
+This model classifies audio-visual segments into three categories:
 
 1️⃣ **Noise only**  
 2️⃣ **Single-speaker activity**  
 3️⃣ **Concurrent-speaker activity**  
 
-The method was evaluated on **AMI, and EasyCom** datasets.
+The method was evaluated on **AMI and EasyCom** datasets.
 
 Our primary focus is on Concurrent Speaker Detection (CSD), which classifies audio segments into the three classes above.
 For comparison with existing methods, we also evaluate our model on the related binary classification tasks:<br/>
@@ -40,9 +40,8 @@ For comparison with existing methods, we also evaluate our model on the related 
 
 ## Model Architecture - High Level
 The high-level architecture of our proposed model is presented in the following figure.<br/>
-....
 <p align="center">
-  <img src="doc/Figures/model_overview.png" width="15%" alt="Model Overview">
+  <img src="doc/Figures/model_overview.png" width="25%" alt="Model Overview">
 </p>
 
 
