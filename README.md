@@ -5,6 +5,15 @@ This repository contains the code for the **audio-visual model** presented in th
 📄 **"Audio-Visual Approach For Multimodal Concurrent Speaker Detection"**  
 🔗 [Link to Paper](https://arxiv.org/abs/2407.01774)  
 
+**Building upon our prior work on audio-only CSD, this repository presents a multimodal approach that incorporates visual information to enhance performance.**
+**Reference:**
+📄 **"Concurrent Speaker Detection: A Multi-Microphone Transformer-Based Approach"** 
+🔗 [Link to Audio-Only Paper](https://ieeexplore.ieee.org/document/10715386)
+🔗 [Link to Audio-Only Code](https://github.com/amiteliav/CSD-Audio-Only)
+
+This new model expands the capabilities of our earlier research by leveraging both audio and visual cues, providing a more robust solution for detecting concurrent speakers.
+
+
 ## 📂 Repository Structure
 ```bash
 CSD-Audio-Visual/
